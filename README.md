@@ -118,13 +118,6 @@ The workflow demonstrates how such an approach can serve as the foundation of a 
 
 
 
-\## How to Run
-
-1\. Install dependencies:
-
-&nbsp;  ```bash
-
-&nbsp;  pip install numpy pandas matplotlib seaborn scikit-learn joblib
 
 
 
